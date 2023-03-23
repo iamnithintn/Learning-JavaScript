@@ -2,7 +2,6 @@
 
 //this is a constant object in javascript
 
-
 const item = {                                   //dictionary or map
     "Harry": true,
     "Me": false,
@@ -15,18 +14,4 @@ const item = {                                   //dictionary or map
 
 console.log(item.Harry);
 console.log(item["You"]);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
