@@ -10,8 +10,5 @@ const item = {                                   //dictionary or map
 }
 
 
-
-
 console.log(item.Harry);
 console.log(item["You"]);
-

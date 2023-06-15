@@ -1,8 +1,8 @@
-//declaration
-let a;
-a="Hello"
-let b = 60
-console.log(a+b);
+    //declaration
+    let a;
+    a="Hello"
+    let b = 60
+    console.log(a+b);
 
 
 

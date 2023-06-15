@@ -4,7 +4,7 @@ const expr = 'Papayas';
 switch (expr) {
   case 'Oranges':
     console.log('Oranges are $0.59 a pound.');
-    break;
+    break;           //Terminates the flow 
   case 'Mangoes':
   case 'Papayas':
     console.log('Mangoes and papayas are $2.79 a pound.');

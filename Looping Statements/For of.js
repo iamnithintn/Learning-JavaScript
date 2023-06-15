@@ -8,7 +8,7 @@ for (let a of value) {
     console.log(a);
 }
 
-
+let z = [10,20,30,40];
 // let marks = {
 //     harry:1,
 //     me:2,

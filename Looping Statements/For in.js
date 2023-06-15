@@ -9,17 +9,13 @@ let marks = {
 }
 
 
-
-//printing the keys
+//*printing the keys
 for (let a in marks) {
     console.log(a);
 }
 
 
-
 //printing the values
-for (let k in marks) {
-    console.log(marks[k]);
+for (let names in marks) {
+    console.log(marks[names]);
 }
-
-

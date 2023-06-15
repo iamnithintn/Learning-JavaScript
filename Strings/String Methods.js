@@ -11,9 +11,9 @@ console.log(c.toLowerCase());
 
 
 let d = "Hello World!!!!"
-console.log(d.slice(2)); //this starts from index 2 and prints everything that follows
+console.log(d.slice(2));                //this starts from index 2 and prints everything that follows
 
-console.log(d.slice(2, 7)); //starts from index 2 and ends with index 7-1
+console.log(d.slice(2, 7));             //starts from index 2 and ends with index 7-1
 
 let e = "Amaterasu"
 console.log(e.replace("Am","Ka"));    //replaces the specified part of the string with the new part you want to

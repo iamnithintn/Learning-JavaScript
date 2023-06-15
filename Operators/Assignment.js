@@ -1,4 +1,4 @@
-//assigning whatever work done on the rhs(operation or variable) to lhs variable
+//assigning whatever it is on the rhs(operation or variable) to lhs variable
 
 
 let a = 5
